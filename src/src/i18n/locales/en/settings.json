@@ -1,0 +1,40 @@
+{
+  "title": "Settings",
+  "subtitle": "Configure your preferences",
+  "country": "Country",
+  "language": "Language",
+  "selectCountry": "Select Country",
+  "selectLanguage": "Select Language",
+  "saveSettings": "Save Settings",
+  "settingsSaved": "Settings saved successfully",
+  "countries": {
+    "GB": "United Kingdom",
+    "SE": "Sweden",
+    "CH": "Switzerland",
+    "CA": "Canada",
+    "US": "United States",
+    "NL": "Netherlands",
+    "FR": "France",
+    "CZ": "Czech Republic",
+    "SK": "Slovakia",
+    "DE": "Germany",
+    "RO": "Romania",
+    "PL": "Poland",
+    "HU": "Hungary",
+    "IT": "Italy",
+    "AT": "Austria"
+  },
+  "languages": {
+    "en": "English",
+    "sv": "Swedish",
+    "de": "German",
+    "fr": "French",
+    "it": "Italian",
+    "nl": "Dutch",
+    "cs": "Czech",
+    "sk": "Slovak",
+    "ro": "Romanian",
+    "pl": "Polish",
+    "hu": "Hungarian"
+  }
+}

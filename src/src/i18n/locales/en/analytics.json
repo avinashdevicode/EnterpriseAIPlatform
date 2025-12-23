@@ -1,0 +1,23 @@
+{
+  "title": "Data Analytics",
+  "subtitle": "View insights and trends across your platform",
+  "kpis": "Key Performance Indicators",
+  "totalInvoices": "Total Invoices",
+  "validatedRate": "Validated Rate",
+  "approvedRate": "Approved Rate",
+  "paidRate": "Paid Rate",
+  "avgApprovalTime": "Avg Approval Time",
+  "accountsReceivable": "Accounts Receivable",
+  "accountsPayable": "Accounts Payable",
+  "charts": "Charts",
+  "monthlyInvoices": "Monthly Invoices",
+  "stageDistribution": "Stage Distribution",
+  "currencySplit": "Currency Split",
+  "filters": "Filters",
+  "dateRange": "Date Range",
+  "country": "Country",
+  "agent": "Agent",
+  "from": "From",
+  "to": "To",
+  "days": "days"
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Invoice Processor",
+  "subtitle": "Manage and process invoices",
+  "id": "Invoice ID",
+  "customer": "Customer",
+  "amount": "Amount",
+  "currency": "Currency",
+  "issueDate": "Issue Date",
+  "dueDate": "Due Date",
+  "stage": "Stage",
+  "riskScore": "Risk Score",
+  "workflow": "Workflow",
+  "extractedFields": "Extracted Fields",
+  "activityTimeline": "Activity Timeline",
+  "pdfPreview": "PDF Preview",
+  "moveToNextStage": "Move to Next Stage",
+  "stages": {
+    "received": "Received",
+    "extracted": "Extracted",
+    "validated": "Validated",
+    "sent_for_approval": "Sent for Approval",
+    "approved": "Approved",
+    "assigned_to_payments": "Assigned to Payments",
+    "paid": "Paid"
+  },
+  "filters": {
+    "dateRange": "Date Range",
+    "customer": "Customer",
+    "stage": "Stage",
+    "country": "Country"
+  },
+  "vendor": "Vendor",
+  "invoiceNumber": "Invoice Number",
+  "items": "Line Items",
+  "description": "Description",
+  "quantity": "Quantity",
+  "unitPrice": "Unit Price",
+  "lineTotal": "Total",
+  "backToList": "Back to List"
+}

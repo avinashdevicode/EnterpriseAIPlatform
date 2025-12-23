@@ -1,0 +1,16 @@
+invoice_id,invoice_number,customer_name,amount,currency,date,due_date,status,stage
+INV001,INV-2025-001,Acme Corporation,15000.00,GBP,2025-01-15,2025-02-15,approved,validated
+INV002,INV-2025-002,Tech Solutions Ltd,28500.50,GBP,2025-01-20,2025-02-20,pending,extracted
+INV003,INV-2025-003,Global Enterprises,42000.00,EUR,2025-01-25,2025-02-25,paid,approved
+INV004,INV-2025-004,Innovation Hub Inc,9750.75,USD,2025-02-01,2025-03-01,rejected,extraction_failed
+INV005,INV-2025-005,Digital Dynamics,31200.00,GBP,2025-02-05,2025-03-05,pending,extracted
+INV006,INV-2025-006,Future Systems,55000.00,EUR,2025-02-10,2025-03-10,approved,validated
+INV007,INV-2025-007,Smart Industries,18900.25,GBP,2025-02-15,2025-03-15,paid,approved
+INV008,INV-2025-008,Cloud Networks,22500.00,USD,2025-02-20,2025-03-20,pending,extracted
+INV009,INV-2025-009,Data Systems Co,35750.50,EUR,2025-02-25,2025-03-25,approved,validated
+INV010,INV-2025-010,Enterprise Solutions,19800.00,GBP,2025-03-01,2025-04-01,pending,extracted
+INV011,INV-2025-011,Quantum Computing Ltd,47200.75,USD,2025-03-05,2025-04-05,paid,approved
+INV012,INV-2025-012,Nexus Technologies,26400.00,EUR,2025-03-10,2025-04-10,approved,validated
+INV013,INV-2025-013,Vertex Systems,33500.25,GBP,2025-03-15,2025-04-15,pending,extracted
+INV014,INV-2025-014,Pinnacle Corp,51000.00,USD,2025-03-20,2025-04-20,rejected,extraction_failed
+INV015,INV-2025-015,Zenith Industries,24300.50,EUR,2025-03-25,2025-04-25,paid,approved

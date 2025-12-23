@@ -1,0 +1,14 @@
+{
+  "title": "AI Agents",
+  "subtitle": "Manage and monitor your AI agents",
+  "invoiceProcessor": "Invoice Processor",
+  "invoiceProcessorDesc": "Automatically process and validate invoices",
+  "customerInsights": "Customer Insights",
+  "customerInsightsDesc": "Analyze customer data and generate insights",
+  "orderProcessor": "Order Processor",
+  "orderProcessorDesc": "Process and track customer orders",
+  "comingSoon": "Coming Soon",
+  "viewDetails": "View Details",
+  "configure": "Configure",
+  "notifyMe": "Notify Me"
+}

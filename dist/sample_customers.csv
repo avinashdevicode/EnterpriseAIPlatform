@@ -1,0 +1,16 @@
+customer_id,customer_name,country,region,credit_score,balance,accounts_payable,accounts_receivable,status
+CUST001,Acme Corporation,GB,Europe,850,0.00,45000.00,0.00,active
+CUST002,Tech Solutions Ltd,GB,Europe,820,5000.00,28500.00,0.00,active
+CUST003,Global Enterprises,DE,Europe,900,0.00,75000.00,12000.00,active
+CUST004,Innovation Hub Inc,US,North America,780,15000.00,9750.00,0.00,at_risk
+CUST005,Digital Dynamics,GB,Europe,835,2500.00,31200.00,5000.00,active
+CUST006,Future Systems,FR,Europe,880,0.00,55000.00,8000.00,active
+CUST007,Smart Industries,NL,Europe,815,8000.00,18900.00,0.00,active
+CUST008,Cloud Networks,US,North America,750,22000.00,22500.00,0.00,at_risk
+CUST009,Data Systems Co,IT,Europe,870,1000.00,35750.00,10000.00,active
+CUST010,Enterprise Solutions,GB,Europe,845,0.00,19800.00,3000.00,active
+CUST011,Quantum Computing Ltd,US,North America,920,0.00,47200.00,15000.00,active
+CUST012,Nexus Technologies,SE,Europe,805,12000.00,26400.00,0.00,at_risk
+CUST013,Vertex Systems,GB,Europe,865,3500.00,33500.00,7000.00,active
+CUST014,Pinnacle Corp,US,North America,795,25000.00,51000.00,0.00,at_risk
+CUST015,Zenith Industries,CH,Europe,900,0.00,24300.00,6000.00,active

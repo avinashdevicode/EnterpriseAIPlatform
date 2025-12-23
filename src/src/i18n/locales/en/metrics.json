@@ -1,0 +1,19 @@
+{
+  "title": "Agent Metrics",
+  "subtitle": "Monitor performance and quality metrics",
+  "volume": "Volume",
+  "accuracy": "Accuracy",
+  "feedback": "Feedback",
+  "positiveFeedback": "Positive Feedback",
+  "negativeFeedback": "Negative Feedback",
+  "processingTime": "Processing Time",
+  "avgProcessingTime": "Avg Processing Time",
+  "exportCSV": "Export CSV",
+  "viewBy": "View By",
+  "day": "Day",
+  "week": "Week",
+  "month": "Month",
+  "agentName": "Agent Name",
+  "period": "Period",
+  "totalVolume": "Total Volume"
+}
