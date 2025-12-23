@@ -442,7 +442,7 @@ export const agents: Agent[] = [
       dataSources: ['Lead Records', 'Engagement Data', 'Product Catalog', 'Sales Territory Data'],
       triggerTypes: ['New Lead Creation', 'Engagement Event', 'Score Threshold', 'Manual Assignment'],
       contact: 'abc@xyz.com',
-      document: '/agents/documentation/lead-scoring-routing',
+      document: '/agents/documentation/lead-scoring-routing',.
       countries: ['CA', 'US', 'NL', 'CH'],
       documentation: {
         businessUseCase: "Improves sales efficiency by automatically scoring and routing leads to the most appropriate sales representative. This ensures that high-potential leads are acted upon quickly, increasing conversion rates and aligning sales and marketing efforts.",
@@ -472,7 +472,7 @@ export const agents: Agent[] = [
       businessFunction: 'Marketing',
       dataSources: ['Event Registration Data', 'CRM Pipeline', 'Revenue Records', 'Campaign Performance Data'],
       triggerTypes: ['Event Completion', 'Deal Close', 'Monthly Review', 'Executive Reporting'],
-      contact: 'abc@xyz.com',.
+      contact: 'abc@xyz.com',
       document: '/agents/documentation/event-roi-attribution',
       countries: ['DE', 'AT', 'CH', 'IT'],
       documentation: {
