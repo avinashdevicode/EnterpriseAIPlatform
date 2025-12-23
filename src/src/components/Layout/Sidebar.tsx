@@ -4,6 +4,8 @@ import { useTranslation } from 'react-i18next';
 import SmartToyIcon from '@mui/icons-material/SmartToy';
 import BarChartIcon from '@mui/icons-material/BarChart';
 import AssessmentIcon from '@mui/icons-material/Assessment';
+import AttachMoneyIcon from '@mui/icons-material/AttachMoney';
+import TimelineIcon from '@mui/icons-material/Timeline';
 
 const drawerWidth = 260;
 
@@ -15,7 +17,10 @@ export const Sidebar = () => {
   const menuItems = [
     { path: '/agents', label: t('agents'), icon: <SmartToyIcon /> },
     { path: '/analytics', label: t('dataAnalytics'), icon: <BarChartIcon /> },
-    { path: '/metrics', label: t('agentMetrics'), icon: <AssessmentIcon /> },
+    // { path: '/metrics', label: t('agentMetrics'), icon: <AssessmentIcon /> },
+    { path: '/metrics/global', label: 'Global Overview', icon: <AssessmentIcon /> },
+    { path: '/metrics/financials', label: 'Financials & ROI', icon: <AttachMoneyIcon /> },
+    { path: '/metrics/roadmap', label: 'Future Roadmap', icon: <TimelineIcon /> },
   ];
 
   return (
