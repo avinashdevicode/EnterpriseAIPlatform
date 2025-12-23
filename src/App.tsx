@@ -11,6 +11,9 @@ import { CustomerDetail } from './src/pages/Agents/CustomerInsights/CustomerDeta
 import { OrderList } from './src/pages/Agents/OrderProcessor/OrderList';
 import { DataAnalytics } from './src/pages/Analytics/DataAnalytics';
 import { AgentMetrics } from './src/pages/Metrics/AgentMetrics';
+import { GlobalOverview } from './src/pages/Metrics/GlobalOverview';
+import { AgentFinancials } from './src/pages/Metrics/AgentFinancials';
+import { FutureRoadmap } from './src/pages/Metrics/FutureRoadmap';
 import { Settings } from './src/pages/Settings/Settings';
 import { useStore } from './src/store/useStore';
 import './index.css';
@@ -75,6 +78,9 @@ export default function App() {
             <Route path="agents/order-processor" element={<OrderList />} />
             <Route path="analytics" element={<DataAnalytics />} />
             <Route path="metrics" element={<AgentMetrics />} />
+            <Route path="metrics/global" element={<GlobalOverview />} />
+            <Route path="metrics/financials" element={<AgentFinancials />} />
+            <Route path="metrics/roadmap" element={<FutureRoadmap />} />
             <Route path="settings" element={<Settings />} />
           </Route>
         </Routes>
